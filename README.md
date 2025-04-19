@@ -5,19 +5,19 @@ Aplikacja służy do predykcji. Przyjmuje dwie liczby (`num1` i `num2`) i zwraca
 ## JAK URUCHOMIĆ APLIKACJĘ 
 1.w terminalu wejdź do folderu projektu:
 
-"cd zadanie1adwcz"
+`cd zadanie1adwcz`
 
 2.zbuduj obraz Dockera:
 
-"docker build -t zadanie1adwcz ."
+`docker build -t zadanie1adwcz .`
 
 3.uruchom aplikacje (mi nie chcialo działac z 5000 działało tylko z portem 5050):
 
-"docker run -p 5000:5000 zadanie1adwcz"
+`docker run -p 5000:5000 zadanie1adwcz`
 
 lub
 
-"docker run -p 5050:5000 zadanie1_adwcz"
+`docker run -p 5050:5000 zadanie1_adwcz`
 
 4.sprawdz jak działa
 
