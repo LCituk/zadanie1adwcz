@@ -14,7 +14,7 @@ Aplikacja służy do predykcji. Przyjmuje dwie liczby (`num1` i `num2`) i zwraca
 lub
 "docker run -p 5050:5000 zadanie1_adwcz"
 
-4. sprawdz jak działa
+4.sprawdz jak działa
 wpisz w przeglądarce :
 "http://localhost:5000/api/v1.0/predict?num1=3&num2=4"
 (lub 5050 jeśli inny port, możesz wybrać inne liczby do predykcji, w tym przypadku predykcja powinna być 1)
