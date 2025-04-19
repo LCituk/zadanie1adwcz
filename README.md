@@ -25,7 +25,7 @@ wpisz w przeglądarce :
 
 "http://localhost:5000/api/v1.0/predict?num1=3&num2=4"
 
-(lub 5050 jeśli wybrałeś inny port, możesz wybrać inne liczby do predykcji, w tym przypadku predykcja powinna być 1)
+(lub "http://localhost:5050/api/v1.0/predict?num1=3&num2=4" jeśli wybrałeś inny port, spróbuj wybrać inne liczby do predykcji, by zobaczyć jak działa (w tym przypadku predykcja powinna być 1))
 
 
 
