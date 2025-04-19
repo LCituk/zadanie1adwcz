@@ -17,7 +17,7 @@ Aplikacja służy do predykcji. Przyjmuje dwie liczby (`num1` i `num2`) i zwraca
 
 lub
 
-`docker run -p 5050:5000 zadanie1_adwcz`
+`docker run -p 5050:5000 zadanie1adwcz`
 
 4.sprawdz jak działa
 
